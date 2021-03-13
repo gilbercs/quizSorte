@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">quiz Sorte</string>
+    <string name="str_escolha">Tente a Sorte</string>
+    <string name="btn_jogar">Jogar</string>
+    <string name="str_entre">Digite um Numero entre 0 e 20</string>
+</resources>
